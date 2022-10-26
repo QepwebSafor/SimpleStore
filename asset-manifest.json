@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SimpleStore/static/css/main.8c9487f8.css",
+    "main.js": "/SimpleStore/static/js/main.2aeae3ec.js",
+    "index.html": "/SimpleStore/index.html",
+    "main.8c9487f8.css.map": "/SimpleStore/static/css/main.8c9487f8.css.map",
+    "main.2aeae3ec.js.map": "/SimpleStore/static/js/main.2aeae3ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c9487f8.css",
+    "static/js/main.2aeae3ec.js"
+  ]
+}
