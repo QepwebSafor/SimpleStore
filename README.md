@@ -1,5 +1,23 @@
+
+
+Hi there 👋
+QepwebSafor/QepwebSafor is a ✨ special ✨ repository because its README.md appears on my GitHub profile.
+
 # Simple Shopping Cart
 
-## Lessons 
- 1. remove
- 2.create layout 
+Una tienda simple creada en local Storage con react .
+
+Creado por Quica Espi Puig
+
+Es un blog público disponible en https://github.com/QepwebSafor/Tutorial_Git-GitHub.git
+
+Página web: https://qepwebsafor.github.io/Tutorial_Git-GitHub/
+
+🔭 I’m currently working on ...
+🌱 I’m currently learning ...
+👯 I’m looking to collaborate on ...
+🤔 I’m looking for help with ...
+💬 Ask me about ...
+📫 How to reach me: ...
+😄 Pronouns: ...
+⚡ Fun fact: ...
