@@ -9,9 +9,9 @@ Una tienda simple creada en local Storage con react .
 
 Creado por Quica Espi Puig
 
-Es un blog público disponible en https://github.com/QepwebSafor/Tutorial_Git-GitHub.git
+Es un blog público disponible en https://github.com/QepwebSafor/SimpleStore.git
 
-Página web: https://qepwebsafor.github.io/Tutorial_Git-GitHub/
+Página web: https://qepwebsafor.github.io/SimpleStore/
 
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
