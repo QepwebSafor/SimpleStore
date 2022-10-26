@@ -5,7 +5,7 @@ QepwebSafor/QepwebSafor is a ✨ special ✨ repository because its README.md ap
 
 # Simple Shopping Cart
 
-Una tienda simple creada en local Storage con react .
+Una tienda simple creada  con react .
 
 Creado por Quica Espi Puig
 
