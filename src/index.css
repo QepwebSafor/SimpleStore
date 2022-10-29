@@ -10,13 +10,36 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #27272a;
+  color:#f0c040;
 }
 a {
   text-decoration: none;
+  color:#fde047;
 }
+h3 {
+  color:#a855f7;
+}
+h2 {
+color:#65a30d;
 
+}
+h4 {
+  text-align: right;
+  color:#6366f1;
+}
+h5 {
+
+  color:#ca8a04;
+}
+hr {
+  background-color:#f0c040;
+}
+p{
+  color:#f0c040;
+}
 img.small {
-  max-height: 8rem;
+  max-height: 15rem;
   width: 100%;
 }
 button {
@@ -30,12 +53,12 @@ button {
 
 button.add {
 
-  background-color: #40c0f0;
+  background-color: #6366f1;
   width:1.5rem;
 }
 button.remove {
 
-  background-color: #f04040;
+  background-color: #db2777;
   width:1.5rem;
 }
 
@@ -44,7 +67,7 @@ button.remove {
   padding: 1rem;
 }
 button.badge {
-  background-color: #f04040;
+  background-color: #db2777;
   border: none;
   color: #ffffff;
   width: 1.9rem;
@@ -52,9 +75,10 @@ button.badge {
   border-radius: 8px;
 }
 .card {
-  background-color: white;
+  background-color: #18181b;
   padding: 1rem;
   margin: 0.5rem;
+  border-radius: 5px;
 }
 .row {
   display: flex;
@@ -88,7 +112,7 @@ justify-content: space-between;
 }
 .block {
 
-  background-color: #bee8f7;
+  background-color: #3f3f46;
   padding: 1rem;
   margin: 0.5rem;
 }

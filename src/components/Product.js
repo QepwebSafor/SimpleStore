@@ -7,7 +7,7 @@ import React from 'react';
    
         <img className='small' src={product.image} alt={product.name}/>
         <h3>{product.name}</h3>
-        <div>${product.price}</div>
+        <h4>${product.price}</h4>
         {item ? (<div>
 
 <button onClick={()=>onRemove(item)} className="remove">-</button>

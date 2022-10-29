@@ -8,9 +8,9 @@ const Basket = (props) => {
   const totalPrice = itemsPrice + taxPrice + shippingPrice;
   return (
     <aside className=' block col-1'>
-      <h2>Cart Items</h2>
+      <h3>Cart Items</h3>
       <div>
-        {cartItems.length === 0 && <div>Cart is empty</div>}
+        {cartItems.length === 0 && <div><h4>Cart is empty</h4></div>}
         {cartItems.map((item)=>  (
           <div key={item.id} className="row">
             <div className='col-1'>{item.name}</div>
@@ -18,7 +18,7 @@ const Basket = (props) => {
             <button onClick={()=>onAdd(item)} className="add">+</button>
             </div>
             <div className='col-1 text-right'>
-              {item.qty}x ${item.price.toFixed(2)}
+            {item.qty}x ${item.price.toFixed(2)}
               </div>
           </div>
         ))}
@@ -28,25 +28,25 @@ const Basket = (props) => {
           <div className='row'>
             <div className='col-2'>Items price</div>
             <div className='col-1 text-right'>
-              ${itemsPrice.toFixed(2)}
+             ${itemsPrice.toFixed(2)} 
             </div>
           </div>
           <div className='row'>
             <div className='col-2'>Tax Price</div>
             <div className='col-1 text-right'>
-              ${taxPrice.toFixed(2)}
+             ${taxPrice.toFixed(2)} 
             </div>
           </div>
           <div className='row'>
             <div className='col-2'>Shipping Price</div>
             <div className='col-1 text-right'>
-              ${shippingPrice.toFixed(2)}
+             ${shippingPrice.toFixed(2)}
             </div>
           </div>
           <div className='row'>
             <div className='col-2'><strong>Total Price</strong></div>
             <div className='col-1 text-right'>
-             <strong> ${totalPrice.toFixed(2)}</strong>
+             <strong>${totalPrice.toFixed(2)} </strong>
             </div>
           </div>
           <hr />

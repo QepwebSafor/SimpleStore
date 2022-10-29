@@ -6,7 +6,7 @@ import React from 'react'
     <div className=' row center block'>
         <div>
 
-            <a href='#/'><h2>Simple Shopping Cart</h2></a>
+            <a href='#/'><h2>Drawings Store</h2></a>
         </div>
         <div>
             <a href='#/cart'>Cart </a> 
