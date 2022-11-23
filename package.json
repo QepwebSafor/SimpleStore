@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "homepage": "https://qepwebsafor.github.io/SimpleStore",
   "private": true,
+    "author": {
+    "name": "Quica Espi Puig",
+    "email": "qepsaforweb@gmail.com"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
